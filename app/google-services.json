@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "891443477657",
+    "firebase_url": "https://wseiapp.firebaseio.com",
+    "project_id": "wseiapp",
+    "storage_bucket": "wseiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891443477657:android:06a39dd529bf0f3d",
+        "android_client_info": {
+          "package_name": "com.example.matma123.wseiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891443477657-r1mvj2ggs9cpam5njj2hu8te8aaccfi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vHS8CPI7Tltp264BZpO1sPsBMxEd0EI"
+        },
+        {
+          "current_key": "AIzaSyBZn3QVlgE_oX8ZNKXAlThugsCDa0-SVXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
